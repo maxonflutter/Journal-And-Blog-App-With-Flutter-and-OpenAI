@@ -14,6 +14,9 @@ dependencies:
   google_fonts: ^6.1.0
   models:
     path: packages/models
+  http: ^1.2.0
+  audioplayers: ^5.2.1
+  path_provider: ^2.1.2
 
 
 dev_dependencies:
